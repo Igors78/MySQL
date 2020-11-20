@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/@Igors78/Testing-linter#bin/main)
+[Live Demo Link](https://repl.it/@Igors78/MySQL#README.md)
 
 ## On your Computer
 
